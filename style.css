@@ -1,0 +1,30 @@
+body{
+    background-color:#2C065E;
+}
+
+.box{
+    background-color:#5e0000;
+    color: white;
+    padding: 50px;
+    margin: 50px;
+    border:#DE2222 dashed;
+    width: 50px;
+}
+
+.box-two{
+    background-color:#002673;
+    color: white;
+    padding: 90px;
+    margin: 90px;
+    border:#69D0E5 dotted;
+    width: 100px;
+}
+
+.box-three{
+    background-color:#500479;
+    color: white;
+    padding: 100px;
+    margin: 100px;
+    border:#E7A9FE solid;
+    width: 150px;
+}
